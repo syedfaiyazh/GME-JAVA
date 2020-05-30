@@ -14,5 +14,7 @@ class scooter extends vehicle
 void start()
  {
 System.out.println("kick");
+System.out.println("kick you");
+
  }
 }
